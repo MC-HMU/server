@@ -20,6 +20,6 @@
 
 **plugins** - 服务端安装的 [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) 插件
 
-**mods** - 服务端安装的 Fabric mod
+**mods** - 服务端安装的 Fabric mods
 
 **datapacks** - 服务端安装的 Minecraft 数据包
