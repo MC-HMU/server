@@ -1,4 +1,4 @@
-<h1 align="center">mods</h1>
+<h1 align="center">datapacks</h1>
 
 <p align="center"> 
   <b>Minecraft datapacks used for the server｜服务端安装的 Minecraft 数据包</b>
