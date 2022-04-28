@@ -18,8 +18,8 @@
 
 ### File Structure
 
-**plugins** - [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) Plugins used for the server
+[**plugins**](plugins)  - [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) Plugins used for the server
 
-**mods** - Fabric mods used for the server
+[**mods**](mods) - Fabric mods used for the server
 
-**datapacks** - Minecraft datapacks used for the server
+[**datapacks**](datapacks) - Minecraft datapacks used for the server
