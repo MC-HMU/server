@@ -6,6 +6,12 @@
 
 ------
 
+## Install Python dependencies / 安装 Python 依赖
+
+``` sh
+pip3 install mcdreforged hjson simpleeval nbtlib
+```
+
 | Name/插件名 | Description | 描述 |
 |-------------|-------------|------|
 |             |             |      |
