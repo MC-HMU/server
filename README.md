@@ -23,3 +23,5 @@
 [**mods**](mods) - Fabric mods used for the server
 
 [**datapacks**](datapacks) - Minecraft datapacks used for the server
+
+[**scarpet**](scarpet) - Carpet Scripts installed on the server

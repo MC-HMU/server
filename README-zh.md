@@ -23,3 +23,5 @@
 [**mods**](mods) - 服务端安装的 Fabric mods
 
 [**datapacks**](datapacks) - 服务端安装的 Minecraft 数据包
+
+[**scarpet**](scarpet) - 服务器使用的 Carpet 脚本
