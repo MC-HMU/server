@@ -5,12 +5,6 @@
   "mod_loader": "Fabric",
   "mods": [
     {
-      "name": "Architectury API",
-      "identifier": {
-        "ModrinthProject": "lhGA9TYQ"
-      }
-    },
-    {
       "name": "bad packets",
       "identifier": {
         "ModrinthProject": "ftdbN0KK"
@@ -41,21 +35,9 @@
       }
     },
     {
-      "name": "Carpet TCTC Addition",
-      "identifier": {
-        "ModrinthProject": "vbBQ6dVH"
-      }
-    },
-    {
       "name": "Carpet TIS Addition",
       "identifier": {
         "ModrinthProject": "jE0SjGuf"
-      }
-    },
-    {
-      "name": "Carpet-AMS-Addition",
-      "identifier": {
-        "ModrinthProject": "q4fx1eTg"
       }
     },
     {
