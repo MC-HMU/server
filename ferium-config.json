@@ -1,0 +1,182 @@
+{
+  "name": "MCHMU-Mods-1_18_2",
+  "output_dir": "~/MCHMU-Mods-1_18_2",
+  "game_version": "1.18.2",
+  "mod_loader": "Fabric",
+  "mods": [
+    {
+      "name": "Architectury API",
+      "identifier": {
+        "ModrinthProject": "lhGA9TYQ"
+      }
+    },
+    {
+      "name": "bad packets",
+      "identifier": {
+        "ModrinthProject": "ftdbN0KK"
+      }
+    },
+    {
+      "name": "Beenfo",
+      "identifier": {
+        "ModrinthProject": "Bta0Pt47"
+      }
+    },
+    {
+      "name": "Bounding Box Outline Reloaded",
+      "identifier": {
+        "ModrinthProject": "ECATbUJL"
+      }
+    },
+    {
+      "name": "Carpet",
+      "identifier": {
+        "ModrinthProject": "TQTTVgYE"
+      }
+    },
+    {
+      "name": "Carpet Extra",
+      "identifier": {
+        "ModrinthProject": "VX3TgwQh"
+      }
+    },
+    {
+      "name": "Carpet TCTC Addition",
+      "identifier": {
+        "ModrinthProject": "vbBQ6dVH"
+      }
+    },
+    {
+      "name": "Carpet TIS Addition",
+      "identifier": {
+        "ModrinthProject": "jE0SjGuf"
+      }
+    },
+    {
+      "name": "Carpet-AMS-Addition",
+      "identifier": {
+        "ModrinthProject": "q4fx1eTg"
+      }
+    },
+    {
+      "name": "Concurrent Chunk Management Engine (Fabric)",
+      "identifier": {
+        "ModrinthProject": "VSNURh3q"
+      }
+    },
+    {
+      "name": "DeathLog",
+      "identifier": {
+        "ModrinthProject": "TPAYeAOc"
+      }
+    },
+    {
+      "name": "EditSign",
+      "identifier": {
+        "ModrinthProject": "hFMCvH85"
+      }
+    },
+    {
+      "name": "Fabric API",
+      "identifier": {
+        "ModrinthProject": "P7dR8mSH"
+      }
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "identifier": {
+        "ModrinthProject": "Ha28R6CL"
+      }
+    },
+    {
+      "name": "FerriteCore",
+      "identifier": {
+        "ModrinthProject": "uXXizFIs"
+      }
+    },
+    {
+      "name": "GugleCarpetAddition",
+      "identifier": {
+        "ModrinthProject": "UHjbX5mk"
+      }
+    },
+    {
+      "name": "Jade 🔍",
+      "identifier": {
+        "ModrinthProject": "nvQzSEkH"
+      }
+    },
+    {
+      "name": "Krypton",
+      "identifier": {
+        "ModrinthProject": "fQEb0iXm"
+      }
+    },
+    {
+      "name": "Lithium",
+      "identifier": {
+        "ModrinthProject": "gvQqBUqZ"
+      }
+    },
+    {
+      "name": "MagicLib",
+      "identifier": {
+        "ModrinthProject": "mv1zH6ln"
+      }
+    },
+    {
+      "name": "MaLiLib",
+      "identifier": {
+        "CurseForgeProject": 303119
+      }
+    },
+    {
+      "name": "Memory Leak Fix",
+      "identifier": {
+        "ModrinthProject": "NRjRiSSD"
+      }
+    },
+    {
+      "name": "MixinTrace",
+      "identifier": {
+        "ModrinthProject": "sGmHWmeL"
+      }
+    },
+    {
+      "name": "Quick Shulker",
+      "identifier": {
+        "CurseForgeProject": 362669
+      }
+    },
+    {
+      "name": "Servux",
+      "identifier": {
+        "CurseForgeProject": 406323
+      }
+    },
+    {
+      "name": "Starlight (Fabric)",
+      "identifier": {
+        "ModrinthProject": "H8CaAYZC"
+      }
+    },
+    {
+      "name": "Syncmatica",
+      "identifier": {
+        "ModrinthProject": "bfneejKo"
+      }
+    },
+    {
+      "name": "Tweakeroo",
+      "identifier": {
+        "CurseForgeProject": 297344
+      }
+    },
+    {
+      "name": "WorldEdit",
+      "identifier": {
+        "CurseForgeProject": 225608
+      }
+    }
+  ]
+}
